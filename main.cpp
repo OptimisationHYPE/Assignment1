@@ -1,5 +1,4 @@
 #include <bits/stdc++.h>
-#include <cstdio>
 
 using namespace std;
 
@@ -169,3 +168,4 @@ int main() {
     simplex(C, A, b, eps);
     return 0;
 }
+
